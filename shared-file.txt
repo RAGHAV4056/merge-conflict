@@ -6,7 +6,8 @@ Instructions:
 
 Each student should modify ONLY the line below.
 
-Current Version: Version A.0
+Current Version: Version A.2
+>>>>>>> feature-branch
 
 ==================================================
 
